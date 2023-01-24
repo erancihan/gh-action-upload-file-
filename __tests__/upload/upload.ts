@@ -1,4 +1,4 @@
-import { uploader } from '../src/uploader';
+import { uploader } from '../../src/uploader';
 
 uploader({
   access_token: '',
